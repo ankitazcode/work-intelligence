@@ -36,7 +36,7 @@ work-intelligence/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/work-intelligence.git
+git clone https://github.com/ankitazcode/work-intelligence.git
 ```
 
 ## 2. Open Project
